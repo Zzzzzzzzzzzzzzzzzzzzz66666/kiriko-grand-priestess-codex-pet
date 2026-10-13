@@ -21,7 +21,7 @@ Copy this folder to `%USERPROFILE%\.codex\pets\arcana`, then reload Codex and en
 
 - `pet.json` — pet name, description, and spritesheet reference.
 - `spritesheet.webp` — 1536 × 1872 atlas, arranged as 8 columns × 9 rows (192 × 208 pixels per cell).
-- `preview-<state>.gif` — animation previews, such as `preview-idle.gif` and `preview-running-left.gif`.
+- `animation-previews/<state>.gif` — individual animation previews, such as `animation-previews/idle.gif` and `animation-previews/running-left.gif`.
 - `contact-sheet.png` and `overview.gif` — visual previews of the character and animations.
 - `validation.json` — spritesheet validation details.
 
